@@ -1,3 +1,6 @@
 [submodule "lyricsemotions"]
 	path = lyricsemotions
 	url = https://github.com/serkansulun/lyricsemotions
+[submodule "ROSVOT"]
+	path = ROSVOT
+	url = https://github.com/RickyL-2000/ROSVOT.git
